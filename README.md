@@ -1,2 +1,2 @@
 # scroll-snap
-Scroll-Snap demo
+Boost your scrollable elements
